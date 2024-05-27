@@ -488,7 +488,7 @@ async def about_handler(c: Client, m: Message):
         quote=True,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("👨‍💻Developer👨‍💻", url="https://t.me/devilharsha_2153")],
+                [InlineKeyboardButton("👨‍💻Developer👨‍💻", url="https://t.me/mxnitro")],
                 [
                     InlineKeyboardButton(
                         "🏘updates🏘", url="https://t.me/toonindiaencodes"
